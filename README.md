@@ -3,12 +3,15 @@
 This dataset contains data for Zimbabwe in different categories ie GDP
 
 
-## Contributions are welcome
+# Contributions are welcome
 
 # Idea
 The idea is to give a Visualization of the data given
 
-## TODO:
+# TODO:
 
 make this a web application
 
+# The source of the document is at
+
+http://www.zimstats.co.zw
